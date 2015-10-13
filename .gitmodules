@@ -1,6 +1,6 @@
 [submodule "playbooks/roles/debian-common"]
 	path = playbooks/roles/debian-common
-	url = git@github.com/agpelliza/ansible-role-debian-common.git
+	url = git@github.com:agpelliza/ansible-role-debian-common.git
 [submodule "playbooks/roles/docker-debian"]
 	path = playbooks/roles/docker-debian
-	url = git@github.com/agpelliza/ansible-role-docker-debian.git
+	url = git@github.com:agpelliza/ansible-role-docker-debian.git
